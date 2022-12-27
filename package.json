@@ -1,0 +1,19 @@
+{
+  "name": "react-simple-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruwlalan/react-simple-skeleton.git"
+  },
+  "author": "dhruw lalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruwlalan/react-simple-skeleton/issues"
+  },
+  "homepage": "https://github.com/dhruwlalan/react-simple-skeleton#readme"
+}
